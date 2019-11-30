@@ -23,17 +23,17 @@
 [Задание 3.4](https://repl.it/@PolinaLazebniko/Zadanie3num4)
 [Задание 3.23](https://repl.it/@PolinaLazebniko/Zadanie3num23)</br>
 #### Тема 5 ИСР
-[Задание 2.1]()
-<br>[Задание 2.2]()
-[Задание 2.3]()
-[Задание 2.4]()</br>
+[Задание 2.1](https://repl.it/@PolinaLazebniko/Tema5-ISR-Zad21)
+<br>[Задание 2.2](https://repl.it/@PolinaLazebniko/Tema5-ISR-Zad22)
+[Задание 2.3](https://repl.it/@PolinaLazebniko/Tema5-ISR-Zad23)
+[Задание 2.4](https://repl.it/@PolinaLazebniko/Tema5-ISR-Zad24)</br>
 #### Тема 5 ВСР
 [Задание 2.1?]()
 <br>[Задание 2.2]()
 [Задание 2.3](https://repl.it/@PolinaLazebniko/Tema5-VSR-Zad23)</br>
 #### Тема 6 ИСР
 [Задание 3.1]()
-<br>[Задание 3.2]()
+<br>[Задание 3.2](https://repl.it/@PolinaLazebniko/Tema6-ISR-Zad32)
 [Задание 3.3]()
 [Задание 3.4]()</br>
 #### Тема 6 ВСР
