@@ -2,11 +2,11 @@
 # Программирование 3 семестр
 #### Тема 1 ИСР
 [Задание 1.1?]()
-<br>[Задание 1.2](https://repl.it/@PolinaLazebniko/Tema1-ISR-Zad12)</br>
-<br>[Задание 1.3 (Формула Герона)](https://repl.it/@PolinaLazebniko/Geron)</br>
-<br>[Задание 1.3 (Формула Герона с помощью лямбда-функции)](https://repl.it/@PolinaLazebniko/Geron-lambda)</br>
-<br>[Задание 1.3 (Формула Герона и тестирование)](https://repl.it/@PolinaLazebniko/Geron-assert)</br>
-<br>[Задание 1.4]()</br>
+<br>[Задание 1.2](https://repl.it/@PolinaLazebniko/Tema1-ISR-Zad12)
+[Задание 1.3 (Формула Герона)](https://repl.it/@PolinaLazebniko/Geron)
+[Задание 1.3 (Формула Герона с помощью лямбда-функции)](https://repl.it/@PolinaLazebniko/Geron-lambda)
+[Задание 1.3 (Формула Герона и тестирование)](https://repl.it/@PolinaLazebniko/Geron-assert)
+[Задание 1.4]()</br>
 #### Тема 1 ВСР
 [Задание 1.1]()
 #### Лабораторная работа 1
@@ -17,25 +17,25 @@
 [Задание](https://repl.it/@PolinaLazebniko/Lab3)
 #### Самостоятельная работа 2
 [Задание 1.4](https://repl.it/@PolinaLazebniko/Zadanie1num4)
-<br>[Задание 1.7](https://repl.it/@PolinaLazebniko/Zadanie1num7)</br>
-<br>[Задание 1.11](https://repl.it/@PolinaLazebniko/Zadanie1num11)</br>
-<br>[Задание 2?]()</br>
-<br>[Задание 3.4](https://repl.it/@PolinaLazebniko/Zadanie3num4)</br>
-<br>[Задание 3.23](https://repl.it/@PolinaLazebniko/Zadanie3num23)</br>
+<br>[Задание 1.7](https://repl.it/@PolinaLazebniko/Zadanie1num7)
+[Задание 1.11](https://repl.it/@PolinaLazebniko/Zadanie1num11)
+[Задание 2?]()
+[Задание 3.4](https://repl.it/@PolinaLazebniko/Zadanie3num4)
+[Задание 3.23](https://repl.it/@PolinaLazebniko/Zadanie3num23)</br>
 #### Тема 5 ИСР
 [Задание 2.1]()
-<br>[Задание 2.2]()</br>
-<br>[Задание 2.3]()</br>
-<br>[Задание 2.4]()</br>
+<br>[Задание 2.2]()
+[Задание 2.3]()
+[Задание 2.4]()</br>
 #### Тема 5 ВСР
 [Задание 2.1?]()
-<br>[Задание 2.2]()</br>
-<br>[Задание 2.3](https://repl.it/@PolinaLazebniko/Tema5-VSR-Zad23)</br>
+<br>[Задание 2.2]()
+[Задание 2.3](https://repl.it/@PolinaLazebniko/Tema5-VSR-Zad23)</br>
 #### Тема 6 ИСР
 [Задание 3.1]()
-<br>[Задание 3.2]()</br>
-<br>[Задание 3.3]()</br>
-<br>[Задание 3.4]()</br>
+<br>[Задание 3.2]()
+[Задание 3.3]()
+[Задание 3.4]()</br>
 #### Тема 6 ВСР
 [Задание 3.1](https://repl.it/@PolinaLazebniko/Tema6-VSR-Zad31)
 <br>[Задание 3.2](https://repl.it/@PolinaLazebniko/Tema6-VSR-Zad32)</br>
@@ -49,8 +49,8 @@
 [Задание]()
 #### Тема 7 ИСР
 [Задание 4.1]()
-<br>[Задание 4.2]()</br>
-<br>[Задание 4.3]()</br>
+<br>[Задание 4.2]()
+[Задание 4.3]()</br>
 #### Тема 7 ВСР
 [Задание 4.1]()
 <br>[Задание 4.2]()</br>
