@@ -19,7 +19,6 @@
 [Задание 1.4](https://repl.it/@PolinaLazebniko/Zadanie1num4)
 <br>[Задание 1.7](https://repl.it/@PolinaLazebniko/Zadanie1num7)
 <br>[Задание 1.11](https://repl.it/@PolinaLazebniko/Zadanie1num11)
-<br>[Задание 2?]()
 <br>[Задание 3.4](https://repl.it/@PolinaLazebniko/Zadanie3num4)
 <br>[Задание 3.23](https://repl.it/@PolinaLazebniko/Zadanie3num23)
 #### Тема 5 ИСР
