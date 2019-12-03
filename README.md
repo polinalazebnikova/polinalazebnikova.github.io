@@ -33,15 +33,15 @@
 #### Тема 6 ИСР
 [Задание 3.1]()
 <br>[Задание 3.2](https://repl.it/@PolinaLazebniko/Tema6-ISR-Zad32)
-<br>[Задание 3.3]()
-<br>[Задание 3.4]()
+<br>[Задание 3.3](https://repl.it/@PolinaLazebniko/Tema6-ISR-Zad33)
+<br>[Задание 3.4](https://repl.it/@PolinaLazebniko/Tema6-ISR-Zad34)
 #### Тема 6 ВСР
 [Задание 3.1](https://repl.it/@PolinaLazebniko/Tema6-VSR-Zad31)
 <br>[Задание 3.2](https://repl.it/@PolinaLazebniko/Tema6-VSR-Zad32)
 #### Лабораторная работа 10
-[Задание]()
+[Задание](https://repl.it/@PolinaLazebniko/Lab10)
 #### Лабораторная работа 11
-[Задание]()
+[Задание](https://repl.it/@PolinaLazebniko/Lab11)
 #### Лабораторная работа 12
 [Задание]()
 #### Лабораторная работа 13
