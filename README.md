@@ -6,7 +6,7 @@
 <br>[Задание 1.3 (Формула Герона)](https://repl.it/@PolinaLazebniko/Geron)
 <br>[Задание 1.3 (Формула Герона с помощью лямбда-функции)](https://repl.it/@PolinaLazebniko/Geron-lambda)
 <br>[Задание 1.3 (Формула Герона и тестирование)](https://repl.it/@PolinaLazebniko/Geron-assert)
-<br>[Задание 1.4]()
+<br>[Задание 1.4](https://repl.it/@PolinaLazebniko/Tema1-ISR-Zad14)
 #### Тема 1 ВСР
 [Задание 1.1]()
 #### Лабораторная работа 1
