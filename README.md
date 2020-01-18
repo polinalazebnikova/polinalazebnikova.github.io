@@ -31,7 +31,7 @@
 <br>[Задание 2.2](https://repl.it/@PolinaLazebniko/Tema5-VSR-Zad22)
 <br>[Задание 2.3](https://repl.it/@PolinaLazebniko/Tema5-VSR-Zad23)
 #### Тема 6 ИСР
-[Задание 3.1]()
+[Задание 3.1](https://www.dropbox.com/s/ojfh57iez3i1bc1/%D0%9B%D0%B0%D0%B7%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%98%D0%92%D0%A2%201.1%20%D0%98%D0%A1%D0%A0%20%D1%82%D0%B5%D0%BC%D0%B0%206%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.1.docx?dl=0)
 <br>[Задание 3.2](https://repl.it/@PolinaLazebniko/Tema6-ISR-Zad32)
 <br>[Задание 3.3](https://repl.it/@PolinaLazebniko/Tema6-ISR-Zad33)
 <br>[Задание 3.4](https://repl.it/@PolinaLazebniko/Tema6-ISR-Zad34)
