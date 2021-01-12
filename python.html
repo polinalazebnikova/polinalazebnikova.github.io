@@ -1,163 +1,229 @@
 <!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="utf-8" />
-<title>Название сайта</title>
-</head>
-<body>
-<!--Создаём таблицу контейнер, которой задаём следующее
-оформление:
-border="1" - рамка вокруг контейнера. Увеличив число, можно увеличить толщину рамки.
-align="center" - размещаем контейнер по центру экрана.
-rules="rows" - убираем двойную рамку.
-style="width:60%;" - добавляем стилевое свойства, делающее
-контейнер и весь сайт "резиновым".
-Сделать полноценный адаптивный дизайн, этим способом невозможно.-->
-<table
-border="1"
-align="center"
-rules="rows"
-style="width:60%;">
-<!--Создаём строку-->
-<tr>
-<!--Создаём ячейку строки-->
-<td>
-<!--ШАПКА САЙТА-->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Лазебникова Полина</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  </head>
+  <body style="padding-top: 20px; background: url(css/fon2.jpg) no-repeat;">
+    <div class="container"  style="font-family: Artifika">
+      <h1 align="center">Проектирование и разработка веб-решений</h1>
+      <h4 align="center">Лазебникова Полина, 2 курс ИВТ 1.1</h4>
+    </div>
+    
+    <hr>
+    <div class="container"  style="font-family: Artifika">
+      <h2 align="center">Обогащенные интерфейсы веб-приложений</h2>
+    </div>
+    <hr>
 
-<!--В ячейке строки создаём ещё одну таблицу для шапки сайта.
-Оформление:
-border="1" - двойная рамка толщиной в 1px
-background="images/168.png" - картинка в шапке сайта, если требуется.
-Адрес картинки вы должны вставить свой.
-bgcolor="#7FFFD4" - фоновый цвет в шапке, если нет картинки.
-cellpadding="10" - отступ содержимого от рамки не менее 10px.
-style="width:100%; border-radius:5px;" - добавляем "резиновость"
-и закругляем уголки рамки-->
-<table
-border="1"
-background="images/168.png"
-bgcolor="#7FFFD4"
-cellpadding="10"
-style="width:100%; border-radius:5px;">
-<!--Создаём строку таблицы-->
-<tr>
-<!--Создаём столбец таблицы-->
-<th>
-<!--Содержание ячейки столбца-->
-<h1>Название сайта (организации)</h1>
-<h3>Описание сайта</h3>
-<!--Закрываем таблицу-->
-</th>
-</tr>
-</table>
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#cart" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+          CART и другие задания
+        </button>
+        <div class="collapse" id="cart">
+            <div class="card card-body">
+              <p><b>CART</b></p>
+              <p><b>Результат: </b> <a href="https://kodaktor.ru/a94ccfd" target="_blank">https://kodaktor.ru/a94ccfd</a></p>
+              <hr>
+              <p><b>Микшер цветов</b></p>
+              <p><b>Результат: </b> <a href="https://kodaktor.ru/aff0fa8_229ad" target="_blank">https://kodaktor.ru/aff0fa8_229ad</a></p>
+              <hr>
+              <p><b>Инициалы</b></p>
+              <p><b>Результат без поворота: </b> <a href="https://kodaktor.ru/click_5dedb" target="_blank">https://kodaktor.ru/click_5dedb</a></p>
+              <p><b>Результат с поворотом: </b> <a href="https://kodaktor.ru/click_3db5c" target="_blank">https://kodaktor.ru/click_3db5c</a></p>
+              <hr>
+              <p><b>Диаграмма</b></p>
+              <p><b>Результат: </b> <a href="https://kodaktor.ru/4a67562" target="_blank">https://kodaktor.ru/4a67562</a></p>
+              <hr>
+              <p><b>Рейтинг фреймворков</b></p>
+              <p><b>Результат: </b> <a href="https://kodaktor.ru/e7200bb" target="_blank">https://kodaktor.ru/e7200bb</a></p>
+              <p><b>Создание интерфейса MaterialUI на React-платформе</b></p>
+              <p><b>Результат: </b> <a href="https://github.com/polinalazebnikova/web2sem/tree/master/Tema%204" target="_blank">https://github.com/polinalazebnikova/web2sem/tree/master/Tema%204</a></p>
+            </div></div></div>
+        <br>
 
-<!--ОСНОВНОЙ КОНТЕНТ-->
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#funcs" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+              FUNC
+            </button>
+            <div class="collapse" id="funcs">
+            <div class="card card-body">
+              <p><b>FUNC-001</b></p>
+              <p><b>Результат: </b> <a href="https://kodaktor.ru/task_func_ca2e7" target="_blank">https://kodaktor.ru/task_func_ca2e7</a></p>
+              <hr>
+              <p><b>FUNC-002</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_0f05e" target="_blank">https://kodaktor.ru/task_func_0f05e</a></p>
+              <hr>
+              <p><b>FUNC-003</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_77238" target="_blank">https://kodaktor.ru/task_func_77238</a></p>
+              <hr>
+              <p><b>FUNC-004</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_3384b" target="_blank">https://kodaktor.ru/task_func_3384b</a></p>
+              <hr>
+              <p><b>FUNC-005</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_7fb82" target="_blank">https://kodaktor.ru/task_func_7fb82</a></p>
+              <hr>
+              <p><b>FUNC-006</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_f02f4" target="_blank">https://kodaktor.ru/task_func_f02f4</a></p>
+              <hr>
+              <p><b>FUNC-007</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_21e98" target="_blank">https://kodaktor.ru/task_func_21e98</a></p>
+              <hr>
+              <p><b>FUNC-008</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_59298" target="_blank">https://kodaktor.ru/task_func_59298</a></p>
+              <hr>
+              <p><b>FUNC-009</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/task_func_92247" target="_blank">https://kodaktor.ru/task_func_92247</a></p>
+              <hr>
+              <p><b>FUNC-010</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/func_e41fe" target="_blank">https://kodaktor.ru/func_e41fe</a></p>
+            </div></div></div>
+        <br>
 
-<!--В этой же ячейке контейнера создаём ещё одну таблицу
-для основного контента.
-Оформление как и в предыдущей таблице-->
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#ipstask" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+        IPS-TASK
+        </button>
+        <div class="collapse" id="ipstask">
+            <div class="card card-body">
+              <p><b>Результат: </b><a href="https://kodaktor.ru/243aa0c" target="_blank">https://kodaktor.ru/243aa0c</a></p>
+            </div></div></div>
+        <br>
 
-<table
-border="1"
-bgcolor="#e6e6fa"
-cellpadding="10"
-style="width:100%; border-radius:5px;">
-<!--Создаём строку-->
-<tr>
-<!--Создаём ячейку
-Оформление:
-rowspan="2" - объединяем две ячейки в одну.
-Число объединяемых ячеек по числу ячеек в сайдбаре.
-style="width:80%" - основной контент занимает 80% всей площади,
-оставшиеся 20% для сайдбара-->
-<td
-rowspan="2"
-style="width:80%">
-<h2>Страница</h2>
-<!--Начинаем абзац с красной строки-->
-<p style="text-indent:20px">
-Здравствуйте уважаемые будущие веб-мастера!
-Мне 55 лет и я рад приветствовать Вас на своём сайте.
-Этот сайт первый, который я разработал самостоятельно,
-а до этого умел только входить в интернет.</p>
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#evnt-002" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+          EVNT_002
+        </button>
+        <div class="collapse" id="evnt-002">
+            <div class="card card-body">
+              <p><b>Результат: </b><a href="https://kodaktor.ru/custom_2f675" target="_blank">https://kodaktor.ru/custom_2f675</a></p>
+            </div></div></div>
+        <br>
 
-<p style="text-indent:20px">Почему я решил его сделать?
-За те 3 месяца, пока разбирался в
-сайтостроении и создавал этот ресурс обнаружилось,
-что авторы руководств по созданию
-сайтов считают многие нюансы само собой разумеющимися
-и не обращают на них внимание
-А мне, учитывая возраст и «опыт», было не просто
-понять как раз эти нюансы, они отнимали больше всего
-времени.</p>
-<!--Закрываем ячейку-->
-</td>
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#evnt-003" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+          EVNT-003
+        </button>
+        <div class="collapse" id="evnt-003">
+            <div class="card card-body">
+              <p><b>Результат: </b><a href="https://kodaktor.ru/e7200bb" target="_blank">https://kodaktor.ru/e7200bb</a></p>
+            </div></div></div>
+        <br>
 
-<!--САЙДБАР-->
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#babl-002" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+          BABL_002
+        </button>
+        <div class="collapse" id="babl-002">
+            <div class="card card-body">
+              <p><b>Результат: </b><a href="https://kodaktor.ru/bind02032018_983fe" target="_blank">https://kodaktor.ru/bind02032018_983fe</a></p>
+            </div></div></div>
+        <br>
 
-<!--Создаём ячейку сайдбара-->
-<td bgcolor="#e6e6fa">
-<h3>Меню</h3>
-<!--Абзац для ссылки на страницу сайта-->
-<p>
-<!--Ссылка на страницу сайта-->
-<a href="">
-<!--Картинка маркера перед названием страницы-->
-<img src="http://trueimages.ru/img/00/06/f4fffdb5.png">
-<!--Название страницы
-style="margin-left:5px;" - отступ названия от маркера-->
-<span style="margin-left:5px;">Страница</span></a>
-<!--Закрываем абзац-->
-</p>
-<p>
-<a href="">
-<img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
-<span style="margin-left:5px;">Страница 1</span;></a>
-</p>
-<p>
-<a href="">
-<img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
-<span style="margin-left:5px;">Страница 2</span></a>
-</p>
-<!--Закрываем строку Меню-->
-</td>
-</tr>
-<!--Создаём строку с дополнительной информацией-->
-<tr>
-<!--Ячейка с дополнительной информацией-->
-<td
-bgcolor="#e6e6fa"
-align="center">
-<h3>Общая информация</h3>
-<p>Текст общей информации или реклама</p>
-<!--Закрываем ячейку с общей информацией
-и таблицу основного контента-->
-</td>
-</tr>
-</table>
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#bndl-001" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+          BNDL_001
+        </button>
+        <div class="collapse" id="bndl-001">
+            <div class="card card-body">
+              <p><b>Результат:</b></p>
+              <p><a href="https://polinalazebnikova.github.io/moment_bundle/" target="_blank">https://polinalazebnikova.github.io/moment_bundle/</a></p>
+              <p><a href="https://github.com/polinalazebnikova/moment_bundle" target="_blank">https://github.com/polinalazebnikova/moment_bundle</a></p>
+            </div></div></div>
+        <br>
 
-<!--ПОДВАЛ-->
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#frmw" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+          FRMW 
+        </button>
+        <div class="collapse" id="frmw">
+            <div class="card card-body">
+              <p><b>FRMW-001</b></p>
+              <p><b>Результат: </b><a href="https://polinalazebnikova.github.io/webpackstudent.github.io/" target="_blank">https://polinalazebnikova.github.io/webpackstudent.github.io/</a></p>
+              <p><a href="https://kodaktor.ru/react_state_e06ff" target="_blank">https://kodaktor.ru/react_state_e06ff</a></p>
+              <p><a href="https://github.com/polinalazebnikova/webpackstudent.github.io" target="_blank">https://github.com/polinalazebnikova/webpackstudent.github.io</a></p>
+              <hr>
+              <p><b>FRMW-002</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/vue_starter_2b445" target="_blank">https://kodaktor.ru/vue_starter_2b445</a></p>
+              <hr>
+              <p><b>FRMW-003</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/frmw_ec98f" target="_blank">https://kodaktor.ru/frmw_ec98f</a></p>
+              <hr>
+              <p><b>FRMW-004</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/frmw_0e026" target="_blank">https://kodaktor.ru/frmw_0e026</a></p>
+              <hr>
+              <p><b>FRMW-005</b></p>
+              <p><b>Результат: </b><a href="https://kodaktor.ru/aff0fa8" target="_blank">https://kodaktor.ru/aff0fa8</a></p>
+            </div></div></div>
+        <br>
 
-<!--Создаём таблицу подвала-->
-<table
-border="1"
-bgcolor="#7FFFD4"
-height="100"
-cellpadding="10"
-style="width:100%; border-radius:5px;">
-<!--Создаём строку.-->
-<tr>
-<!--Создаём столбец-->
-<th>
-<h3>Подвал</h3>
-<!--Закрываем таблицу подвала. При желании в подвале можно
-сделать несколько строк и столбцов-->
-</th>
-</tr>
-</table>
-<!--Закрываем таблицу контейнера-->
-</td>
-</tr>
-</table>
-</body>
+    <div class="container">
+        <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#json-intro" style="background-color: rgba(183, 229, 237, 0.5); color: black">
+          JSON_INTRO
+        </button>
+        <div class="collapse" id="json-intro">
+            <div class="card card-body">
+              <p><b>Ответ:</b><a href="https://github.com/polinalazebnikova/json_intro" target="_blank">https://github.com/polinalazebnikova/json_intro</a></p>
+            </div></div></div>
+        <br>     
+
+    <hr>
+    <div class="container"  style="font-family: Artifika">
+      <h2 align="center">Другие дисциплины модуля</h2>
+    </div>
+    <hr>
+    <!-- Веб-проектирование и веб-языки -->
+    <div class="container">
+      <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#collapse1" style="background-color: rgba(183, 229, 237, 0.9); color: black">
+        Веб-проектирование и веб-языки
+      </button>
+      <div class="collapse" id="collapse1">
+      <div class="card card-body">
+        <a href="https://github.com/polinalazebnikova/web/blob/master/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Node.docx" target="_blank">Установка Node</a>
+        <a href="https://github.com/polinalazebnikova/web/tree/master/Tema1" target="_blank">Тема 1</a>
+        <a href="https://github.com/polinalazebnikova/web/tree/master/Tema1/vsr" target="_blank">Тема 1 ВСР</a>
+        <a href="https://github.com/polinalazebnikova/web/tree/master/Tema2/zadanie1" target="_blank">Тема 2 задание 1</a>
+        <a href="https://kodaktor.ru/eeb35e7" target="_blank">Тема 2 задание 2a</a>
+        <a href="https://kodaktor.ru/4654af3" target="_blank">Тема 2 задание 2b</a>
+        <a href="https://github.com/polinalazebnikova/web/tree/master/Tema2/isr" target="_blank">Тема 2 ИСР</a>
+        <a href="https://github.com/polinalazebnikova/web/tree/master/Tema3/zadanie1" target="_blank">Тема 3 задание 1</a>
+        <a href="https://kodaktor.ru/0907ba1" target="_blank">Тема 3 задание 2.1</a>
+        <a href="https://kodaktor.ru/4aaa4a9" target="_blank">Тема 3 задание 2.2</a>
+        <a href="https://kodaktor.ru/b284714" target="_blank">Тема 3 ИСР</a>
+        <a href="https://kodaktor.ru/a94ccfd" target="_blank">Тема 3 ВСР</a>
+        <a href="https://github.com/polinalazebnikova/web/blob/master/Tema4/zadanie2/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B.md" target="_blank">Тема 4 задание 2</a>
+        <a href="https://github.com/polinalazebnikova/web/tree/master/Tema4/vsr" target="_blank">Тема 4 ВСР</a>
+      </div>
+      </div>
+    </div>
+    <br>
+
+    <!-- Компьютерный практикум -->
+    <div class="container">
+      <button class="btn btn-primary btn-block btn-outline-light" data-toggle="collapse" data-target="#collapse3" style="background-color: rgba(183, 229, 237, 0.9); color: black">
+        Компьютерный практикум
+      </button>
+      <div class="collapse" id="collapse3">
+      <div class="card card-body">
+        <a href="https://github.com/polinalazebnikova/comp-pract/tree/master/Tema%201/zadanie1" target="_blank">Тема 1 задание 1</a>
+        <a href="https://github.com/polinalazebnikova/comp-pract/tree/master/Tema%201/zadanie2" target="_blank">Тема 1 задание 2</a>
+        <a href="https://github.com/polinalazebnikova/comp-pract/tree/master/Tema%202/zadanie1" target="_blank">Тема 2 задание 1</a>
+        <a href="https://kodaktor.ru/08f4aa5" target="_blank">Тема 3 задание 1</a>
+        <a href="https://github.com/polinalazebnikova/comp-pract/tree/master/Tema%203/vsr" target="_blank">Тема 3 ВСР</a>
+        <a href="https://github.com/polinalazebnikova/comp-pract/tree/master/Tema%204/zadanie1" target="_blank">Тема 4 задание 1</a>
+        <a href="https://github.com/polinalazebnikova/comp-pract/tree/master/Tema%204/zadanie2" target="_blank">Тема 4 задание 2</a>
+
+      </div>
+      </div>
+    </div>
+    <br>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
 </html>
